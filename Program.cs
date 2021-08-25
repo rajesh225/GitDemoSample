@@ -11,6 +11,7 @@ namespace GitDemoSample
             Console.WriteLine("Branch1 code updated. ");
 
             Console.WriteLine("Branch2 code updated. ");
+            Console.WriteLine("Branch3 Code updated. ");
         }
     }
 }
